@@ -1,0 +1,266 @@
+[
+    {
+      "image": "https://i.ibb.co/pPvR5QR/download.jpg",
+      "name": "shirt",
+      "price": 19.99,
+      "description": "Introducing our classic cotton shirt, a timeless addition to your wardrobe. Crafted from high-quality, breathable cotton fabric, this shirt offers superior comfort and durability. With its versatile design and perfect fit, it's suitable for both casual and formal occasions. Elevate your style with this essential piece."
+    },
+    {
+      "image": "https://i.ibb.co/mRsW9Sz/shirt-2.jpg",
+      "name": "shirt",
+      "price": 24.99,
+      "description": "Discover the perfect balance of style and comfort with our performance-based athletic shirt. Engineered with moisture-wicking technology, this shirt keeps you cool and dry during intense workouts. The stretchable fabric allows for unrestricted movement, while the ergonomic design ensures a comfortable fit. Stay ahead of the game with this performance-driven shirt."
+    },
+    {
+      "image": "https://i.ibb.co/P1pzS5M/shirt-3.jpg",
+      "name": "shirt",
+      "price": 39.99,
+      "description": "Experience the ultimate blend of style and sophistication with our premium silk shirt. Made from luxurious silk fabric, this shirt exudes elegance and offers a silky smooth touch against your skin. Its impeccable tailoring ensures a flattering fit, while the intricate details add a touch of refinement. Make a statement with this exquisite shirt"
+    },
+    {
+      "image": "https://i.ibb.co/r6t25fq/shirt-5.jpg",
+      "name": "shirt",
+      "price": 39.99,
+      "description": "This is the description for product 3."
+    },
+    {
+      "image": "https://i.ibb.co/D1LHHSH/shirt4.jpg",
+      "name": "shirt",
+      "price": 39.99,
+      "description": "Introducing our eco-friendly organic cotton shirt, a sustainable fashion choice you can feel good about. Made from 100% organic cotton, this shirt is free from harmful chemicals and pesticides, making it gentle on your skin and the environment. With its modern design and soft texture, it offers a stylish and conscious choice for the eco-conscious individual"
+    },
+    {
+      "image": "https://i.ibb.co/X81w1qd/t-shirt-1.jpg",
+      "name": "T Shirt",
+      "price": 39.99,
+      "description": "Get ready for effortless style with our classic crew neck t-shirt. Made from soft and breathable cotton fabric, this t-shirt offers all-day comfort. Its versatile design makes it perfect for pairing with your favorite jeans or shorts. Whether you're running errands or hanging out with friends, this timeless piece will keep you looking cool and casual."
+    },
+    {
+      "image": "https://i.ibb.co/SBvtWkn/t-shirt-3",
+      "name": "Product 3",
+      "price": 39.99,
+      "description": "Make a bold statement with our graphic print t-shirt. Featuring eye-catching designs and vibrant colors, this t-shirt adds a pop of personality to your outfit. Made from high-quality materials, it offers both style and comfort. Whether you're expressing your love for music, sports, or art, this t-shirt lets you showcase your unique interests in a fashionable way."
+    },
+    {
+      "image": "https://i.ibb.co/GQHnHJm/t-shirt-4.jpg",
+      "name": "T shirt",
+      "price": 39.99,
+      "description": "Experience the perfect blend of style and performance with our athletic performance t-shirt. Crafted with moisture-wicking technology, this t-shirt keeps you cool and dry during your workouts. The lightweight and breathable fabric allows for maximum mobility, while the ergonomic design ensures a comfortable fit. Take your fitness game to the next level with this reliable workout companion."
+    },
+    {
+      "image": "https://i.ibb.co/s6gPBns/t-shirt-5.jpg",
+      "name": "T shirt",
+      "price": 39.99,
+      "description": "Embrace laid-back vibes with our vintage-inspired t-shirt. Made from a soft and worn-in fabric, this t-shirt exudes a retro charm. With its faded graphics and distressed details, it gives off a cool, lived-in look. Whether you're heading to a music festival or just want to channel some nostalgic vibes, this t-shirt is a must-have for your casual wardrobe."
+    },
+    {
+      "image": "https://i.ibb.co/ZT9gTs4/t-shirt-6.jpg",
+      "name": "T shirt",
+      "price": 39.99,
+      "description": "Elevate your style with our premium fitted t-shirt. Crafted from a blend of high-quality materials, this t-shirt offers a sleek and modern silhouette. The tailored fit accentuates your physique, while the soft fabric provides all-day comfort. Whether you're dressing up for a night out or adding a touch of sophistication to your everyday look, this t-shirt is a versatile wardrobe staple."
+    },
+    {
+      "image": "https://i.ibb.co/zr24qXY/t-shirt-7.jpg",
+      "name": "T Shirt",
+      "price": 39.99,
+      "description": "Stay eco-friendly with our sustainable organic cotton t-shirt. Made from 100% organic cotton, this t-shirt is both gentle on your skin and the environment. The natural and hypoallergenic properties of organic cotton ensure a comfortable and breathable wearing experience. Choose this eco-conscious option to support sustainable fashion without compromising on style."
+    },
+    {
+      "image": "https://i.ibb.co/30jLQh3/t-shirt-2.jpg",
+      "name": "T Shirt",
+      "price": 39.99,
+      "description": "Unleash your inner adventurer with our outdoor-inspired t-shirt. Designed for the nature enthusiast, this t-shirt features nature-inspired prints and motifs. Its durable and moisture-wicking fabric is perfect for outdoor activities, whether you're hiking, camping, or exploring the great outdoors. Show your love for nature and adventure with this rugged and stylish t-shirt."
+    },
+    {
+      "image": "https://i.ibb.co/dJRLYsn/pant-1.jpg",
+      "name": "Pant",
+      "price": 39.99,
+      "description": "Experience ultimate comfort with our relaxed-fit jogger pants. Crafted from soft and breathable materials, these pants provide a cozy feel for lounging or running errands. The elasticized waistband and cuffs offer a relaxed and trendy look, while the versatile design allows you to effortlessly transition from casual to athleisure wear. Embrace comfort without compromising on style with these fashionable jogger pants."
+    },
+    {
+      "image": "https://i.ibb.co/cbZMgNV/pant-2.jpg",
+      "name": "Pant",
+      "price": 39.99,
+      "description": "Step up your professional attire with our tailored dress pants. These pants feature a sleek and polished design, perfect for formal occasions or the office. Made from high-quality fabric, they offer a comfortable fit and excellent drape. Pair them with a dress shirt or blazer to exude confidence and sophistication. Make a statement with these impeccably tailored dress pants."
+    },
+    {
+      "image": "https://i.ibb.co/ncJdnBC/pant-3.jpg",
+      "name": "Pant",
+      "price": 39.99,
+      "description": "Gear up for your outdoor adventures with our durable cargo pants. Constructed from rugged and water-resistant materials, these pants are designed to withstand tough conditions. The multiple pockets provide ample storage for your essentials, while the adjustable waist ensures a comfortable fit. Whether you're hiking, camping, or exploring, these cargo pants are a reliable companion for your outdoor escapades."
+    },
+    {
+      "image": "https://i.ibb.co/X2brJFt/pant-4.jpg",
+      "name": "Pant",
+      "price": 39.99,
+      "description": "Stay comfortable and stylish with our slim-fit jeans. Crafted from premium denim, these jeans offer a flattering silhouette while allowing freedom of movement. The modern slim fit adds a touch of contemporary style, making them a perfect choice for casual outings or nights on the town. Elevate your denim game with these trendy and comfortable jeans."
+    },
+    {
+      "image": "https://i.ibb.co/qDh46tv/pant-5.jpg",
+      "name": "Pant",
+      "price": 39.99,
+      "description": "Introducing our classic chino pants, a timeless essential for your wardrobe. Made from high-quality cotton twill fabric, these pants offer a perfect blend of comfort and style. With their versatile design, they can be dressed up or down for any occasion. Whether you're heading to the office or going out for a casual weekend brunch, these chino pants provide a polished and sophisticated look"
+    },
+    {
+      "image": "https://i.ibb.co/Yb5jCVM/kamij-4.jpg",
+      "name": "kamij",
+      "price": 39.99,
+      "description": "Step into elegance with our exquisite Kamij dress. This stunning ankle-length dress is crafted from luxurious silk fabric, draping gracefully to create a regal silhouette. The intricate embroidery on the bodice and sleeves adds a touch of traditional charm, while the high neckline exudes sophistication. Perfect for formal occasions, weddings, or cultural celebrations, this Kamij dress is a timeless piece that exudes grace and elegance"
+    },
+    {
+      "image": "https://i.ibb.co/Smt0xHg/kamij-5.jpg",
+      "name": "kamij",
+      "price": 39.99,
+      "description": "Make a statement with our modern twist on the classic Kamij dress. Designed for the fashion-forward woman, this floor-length dress features a fitted bodice with a contemporary V-neckline and full-length sleeves. The flowing georgette fabric creates a flattering and ethereal look, while the contrasting color panels add a touch of contemporary flair. Embrace the fusion of tradition and modernity with this striking Kamij dress."
+    },
+    {
+      "image": "https://i.ibb.co/zZh73Cj/kamij-6.jpg",
+      "name": "kamij",
+      "price": 39.99,
+      "description": "Embrace the rich cultural heritage with our intricately embroidered Kamij dress. Crafted from premium chiffon fabric, this ankle-length dress features exquisite hand embroidery on the bodice and sleeves, showcasing traditional motifs and craftsmanship. The flowing silhouette and delicate details evoke a sense of elegance and grace. Wear this Kamij dress to special occasions, religious ceremonies, or cultural events, and immerse yourself in timeless beauty."
+    },
+    {
+      "image": "https://i.ibb.co/72qRX0T/kamij-1.jpg",
+      "name": "kamij",
+      "price": 39.99,
+      "description": "Elevate your style with our versatile Kamij dress. This floor-length dress is made from soft and lightweight fabric, ensuring comfort throughout the day. The minimalist design with a high neckline and long sleeves exudes understated elegance. Whether worn for a formal event, an evening affair, or as a stylish everyday outfit, this Kamij dress offers a perfect blend of sophistication and contemporary fashion."
+    },
+    {
+      "image": "https://i.ibb.co/4VxJzmL/kamij-2.jpg",
+      "name": "kamij",
+      "price": 39.99,
+      "description": "Indulge in the allure of our Kamij dress, inspired by the traditional shalwar kameez. Made from high-quality materials, this ankle-length dress features a beautifully patterned bodice and sleeves, adorned with sequins and beads for a touch of glamour. The flowing silhouette and vibrant colors capture attention, making it a stunning choice for weddings, festive occasions, or cultural gatherings. Unleash your inner diva with this enchanting Kamij dress."
+    },
+    {
+      "image": "https://i.ibb.co/gJL0hfS/kamij-3.jpg",
+      "name": "kamij",
+      "price": 39.99,
+      "description": "Make a statement with our modern twist on the classic Kamij dress. Designed for the fashion-forward woman, this floor-length dress features a fitted bodice with a contemporary V-neckline and full-length sleeves. The flowing georgette fabric creates a flattering and ethereal look, while the contrasting color panels add a touch of contemporary flair. Embrace the fusion of tradition and modernity with this striking Kamij dress."
+    },
+    {
+      "image": "https://i.ibb.co/Hq7gCVP/shari-3.jpg",
+      "name": "shari",
+      "price": 39.99,
+      "description": "Embrace the rich traditions with our traditional saree. This saree features intricate handwoven patterns and motifs, showcasing the artistry of skilled artisans. Made from premium cotton or silk fabric, it offers a comfortable and breathable wear. The rich color combinations and ornate borders add a touch of regality. Wear this saree to religious ceremonies, cultural festivities, or family gatherings, and make a statement of timeless beauty."
+    },
+    {
+      "image": "https://i.ibb.co/G26Fq6L/shari-4.jpg",
+      "name": "shari",
+      "price": 39.99,
+      "description": "Unleash your inner goddess with our contemporary fusion saree. This saree combines traditional elements with modern design aesthetics. Made from georgette or crepe fabric, it offers a lightweight and effortless drape. The unique prints, bold colors, and trendy blouse designs create a captivating ensemble. Step into the spotlight at parties, receptions, or fashion events with this chic and fashionable saree."
+    },
+    {
+      "image": "https://i.ibb.co/nQ8TgPL/shari-5.jpg",
+      "name": "shari",
+      "price": 39.99,
+      "description": "Embrace the rich traditions with our traditional saree. This saree features intricate handwoven patterns and motifs, showcasing the artistry of skilled artisans. Made from premium cotton or silk fabric, it offers a comfortable and breathable wear. The rich color combinations and ornate borders add a touch of regality. Wear this saree to religious ceremonies, cultural festivities, or family gatherings, and make a statement of timeless beauty."
+    },
+    {
+      "image": "https://i.ibb.co/Yy6F9QW/shari-1.jpg",
+      "name": "shari",
+      "price": 39.99,
+      "description": "Wrap yourself in elegance with our exquisite saree. Crafted from luxurious silk fabric, this saree drapes gracefully, accentuating your figure and exuding timeless charm. The intricate motifs and delicate embroidery add a touch of artistry and cultural heritage. Perfect for weddings, festive occasions, or formal events, this saree will make you feel like a true queen."
+    },
+    {
+      "image": "https://i.ibb.co/b3SLhFH/shari-2.jpg",
+      "name": "shari",
+      "price": 39.99,
+      "description": "Experience the allure of our designer saree, meticulously crafted for the fashion-conscious woman. Made from high-quality chiffon, this saree offers a lightweight and flowy drape. The contemporary design and vibrant color palette make it a standout piece. Whether attending a cultural event, a glamorous party, or a special celebration, this saree will make you the center of attention."
+    },
+    {
+      "image": "https://i.ibb.co/5LjK7nZ/lady-shoe-5.jpg",
+      "name": "shoe",
+      "price": 39.99,
+      "description": "Experience the perfect blend of style and comfort with our casual slip-on shoes. These shoes feature a convenient slip-on design, making them easy to wear and remove. The soft and flexible upper material provides a comfortable fit, while the durable outsole offers reliable traction. Whether you're running errands or enjoying a leisurely walk, these slip-on shoes will keep you looking fashionable and feeling at ease."
+    },
+    {
+      "image": "https://i.ibb.co/TH53BNw/lady-Shoe-1.jpg",
+      "name": "shoe",
+      "price": 39.99,
+      "description": "Step into style and comfort with our classic leather loafers. These timeless shoes feature a sleek and sophisticated design, crafted from high-quality leather for durability. The cushioned insole and flexible outsole provide all-day comfort, making them perfect for both professional settings and casual outings. Elevate your footwear collection with these versatile and stylish loafers."
+    },
+    {
+      "image": "https://i.ibb.co/wd3PZxg/lady-Shoe-2.jpg",
+      "name": "shoe",
+      "price": 39.99,
+      "description": "Make a bold statement with our vibrant athletic sneakers. Designed for the active individual, these sneakers combine functionality with eye-catching style. The breathable mesh upper ensures proper airflow, while the cushioned sole provides excellent support and shock absorption. Whether you're hitting the gym or running errands, these sneakers will keep you looking trendy and feeling comfortable."
+    },
+    {
+      "image": "https://i.ibb.co/dkHPHYW/lady-Shoe-3.jpg",
+      "name": "shoe",
+      "price": 39.99,
+      "description": "Embrace the essence of summer with our chic and fashionable sandals. Made with soft and supple materials, these sandals offer a combination of style and comfort. The strappy design and adjustable buckle closure provide a secure and customizable fit, while the cushioned footbed ensures all-day ease. Perfect for sunny days and warm weather, these sandals will effortlessly complement any outfit."
+    },
+    {
+      "image": "https://i.ibb.co/qFJfx9N/lady-Shoe-4.jpg",
+      "name": "shoe",
+      "price": 39.99,
+      "description": "Experience ultimate elegance with our sophisticated high heels. These heels are designed to make a statement, featuring a sleek silhouette and a stiletto heel. Crafted from premium materials, they provide both style and durability. Whether you're attending a formal event or a special occasion, these high heels will add a touch of glamour and elevate your ensemble."
+    },
+    {
+      "image": "https://i.ibb.co/bdKpgzb/shoe-1.jpg",
+      "name": "shoe",
+      "price": 39.99,
+      "description": "Discover the perfect blend of comfort and style with our trendy sneakers. These sneakers boast a modern design, featuring a combination of breathable mesh and durable synthetic materials. The cushioned insole and flexible outsole offer exceptional comfort and support, making them ideal for long walks or active lifestyles. Stay on-trend and comfortable with these fashionable sneakers."
+    },
+    {
+      "image": "https://i.ibb.co/DwhqQbb/shoe-2.jpg",
+      "name": "shoe",
+      "price": 39.99,
+      "description": "Step into casual sophistication with our versatile ankle boots. These boots feature a sleek design with a low heel and a zip closure for easy on and off. Crafted from high-quality suede or leather, they offer a stylish and timeless look. Whether paired with jeans, skirts, or dresses, these ankle boots are a must-have addition to your wardrobe."
+    },
+    {
+      "image": "https://i.ibb.co/rsfgLLM/shoe-3.jpg",
+      "name": "shoe",
+      "price": 39.99,
+      "description": "Experience the ultimate in outdoor performance with our rugged hiking boots. These boots are designed to withstand challenging terrains, featuring a sturdy construction and a waterproof exterior. The traction outsole provides excellent grip, while the cushioned footbed offers comfort during long hikes. Conquer the trails with confidence in these durable and reliable hiking boots."
+    },
+    {
+      "image": "https://i.ibb.co/qxJC59d/shoe-4.jpg",
+      "name": "shoe",
+      "price": 39.99,
+      "description": "Elevate your casual style with our trendy canvas sneakers. These sneakers feature a lightweight and breathable canvas upper, making them perfect for everyday wear. The lace-up closure ensures a secure fit, while the cushioned insole provides added comfort. Whether running errands or meeting friends, these canvas sneakers offer a cool and laid-back vibe."
+    },
+    {
+      "image": "https://i.ibb.co/QM8f3sP/shoe-5.jpg",
+      "name": "shoe",
+      "price": 39.99,
+      "description": "Step into luxury with our premium leather dress shoes. These meticulously crafted shoes exude elegance and sophistication. The polished leather upper, fine stitching, and sleek design create a refined and timeless look. With their comfortable fit and attention to detail, these dress shoes are perfect for formal occasions, business meetings, or any event where you want to make a lasting impression"
+    },
+    {
+      "image": "https://i.ibb.co/vkH8Vh9/shoe-6.jpg",
+      "name": "shoe",
+      "price": 39.99,
+      "description": "Experience the perfect blend of style and comfort with our casual slip-on shoes. These shoes feature a convenient slip-on design, making them easy to wear and remove. The soft and flexible upper material provides a comfortable fit, while the durable outsole offers reliable traction. Whether you're running errands or enjoying a leisurely walk, these slip-on shoes will keep you looking fashionable and feeling at ease."
+    },
+    {
+      "image": "https://i.ibb.co/YdBN96q/sunglass-1.jpg",
+      "name": "sunglass",
+      "price": 39.99,
+      "description": "Frame Material: Sunglasses frames can be made from a variety of materials, such as plastic, metal, acetate, or wood. Each material offers its own unique characteristics in terms of durability, comfort, and style."
+    },
+    {
+      "image": "https://i.ibb.co/ZW6w8Bv/sunglass-2.jpg",
+      "name": "sunglass",
+      "price": 39.99,
+      "description": "Lens Technology: Sunglasses lenses can come with various technologies to enhance visual clarity and protect the eyes. These technologies may include polarized lenses, which reduce glare and improve visibility, or mirrored lenses, which reflect light away from the eyes."
+    },
+    {
+      "image": "https://i.ibb.co/wQn3jF6/sunglass-3.jpg",
+      "name": "sunglass",
+      "price": 39.99,
+      "description": "UV Protection: One of the most important aspects of sunglasses is their ability to provide protection against harmful UV (ultraviolet) rays. Look for sunglasses that offer 100% UV protection to shield your eyes from both UVA and UVB rays, helping to prevent eye damage and long-term effects of sun exposure."
+    },
+    {
+      "image": "https://i.ibb.co/4VpDB2z/sunglass-4.jpg",
+      "name": "sunglass",
+      "price": 39.99,
+      "description": "Lens Tint and Color: Sunglasses lenses can come in different tints and colors to cater to various preferences and lighting conditions. Lens tints can range from dark (for bright sunlight) to lighter tints (for overcast or low-light conditions). Colors like gray, brown, green, or yellow can impact how colors appear and provide specific benefits for different activities."
+    },
+    {
+      "image": "https://i.ibb.co/5xXB9Zs/sunglass-5.jpg",
+      "name": "sunglass",
+      "price": 39.99,
+      "description": "Style and Design: Sunglasses come in a wide range of styles and designs to suit different face shapes and fashion preferences. Some popular styles include aviator, wayfarer, cat-eye, round, rectangular, and sporty designs. The frame shape, color, and embellishments can significantly influence the overall look and aesthetic appeal of the sunglasses."
+    }
+]
